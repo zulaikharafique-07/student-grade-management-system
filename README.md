@@ -13,3 +13,6 @@ A beginner Python project that:
   - Nested Dictionaries
   - Input/Output
   - Conditional Statements
+ 
+  ## Author
+  Zulaikha Rafique
